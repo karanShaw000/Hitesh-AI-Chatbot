@@ -2,7 +2,7 @@
 
 [Deployment Link](https://hitesh-ai-chatbot.vercel.app)
 
-This is a persona-based AI chatbot built with **Next.js**, using the **OpenAI** and **few-shot prompting** to simulate responses in the tone and style of [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchaudhary/).
+This is a persona-based AI chatbot built with **Next.js**, using the **OpenAI** and **few-shot prompting** to simulate responses in the tone and style of [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/).
 
 ## 🚀 Features
 
