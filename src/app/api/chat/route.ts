@@ -14,7 +14,7 @@ export async function POST(req: Request) {
 
   try {
     const res = await client.chat.completions.create({
-      model: "gpt-4.1-nano",
+      model: "gpt-4.1-mini",
       messages: [
         { role: "system", content: getHiteshSystemPrompt() },
         ...chats,
