@@ -19,7 +19,6 @@ export async function POST(req: Request) {
         { role: "system", content: getHiteshSystemPrompt() },
         ...chats,
       ],
-      max_completion_tokens: 100
     });
 
     const message = res.choices[0].message;
